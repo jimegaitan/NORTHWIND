@@ -19,6 +19,6 @@ Northwind is one of the most widely used sample databases for learning SQL and d
 ![Entity-Relationship Diagram (ERD)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwYTFZ4owdiN8zZp9yqNjMYPqx5to-oa0N1yQdyfwZuhhwDKkY6jHz4qrWxC5yydL8dl0gvlyv9K_wDi1UpesWpE_-jc-nG3jzPPJT5tRnVnmPMiZ-3j4ltWHaW3-pSVxtQLpjDTKmK1RF/s1600/Northwind_diagram.jpg)
 
 &nbsp;
-### Now let´s take a look at the database script: 
+### Now let´s take a look at the database script: https://github.com/jimegaitan/NORTHWIND/blob/main/northwind_MYSQL.sql
 &nbsp; 
 
